@@ -1,0 +1,53 @@
+{
+    "name": "Ruby Sinatra Test",
+    "services": [],
+    "description": "Focused on quickly creating web applications in Ruby with minimal effort.",
+    "type": "web",
+    "system_tags": ["ibm_created"],
+    "categories": ["boilerplate"],
+    "source": {
+        "scmType": "git",
+        "url": ".git",
+        "appPath": "app"
+    },
+	"docURL": "/#starters/rubysinatra/index.html#rubyhelloworld",
+    	"runtime_id": "d70d427c-eb92-43a7-a3fa-67e9885ad044",
+	"categories": ["boilerplate"],
+	"runtime_template_id": "javaHelloWorld",
+	"extra" : {
+		"i18n" : {
+			"de" : {
+				"name": "Ruby Sinatra",
+				"description": "Hierbei steht die schnelle Erstellung von Webanwendungen in Ruby mit einem minimalen Aufwand im Vordergrund."
+			},
+			"es" : {
+				"name": "Ruby Sinatra",
+				"description": "Centrada en crear rápidamente aplicaciones web en Ruby con el mínimo esfuerzo. "
+			},
+			"fr" : {
+				"name": "Ruby Sinatra",
+				"description": "Création rapide d'applications Web dans Ruby avec un minimum d'effort. "
+			},
+			"it" : {
+				"name": "Ruby Sinatra",
+				"description": "Realizzata per creare rapidamente applicazioni Web in Ruby con il minimo sforzo."
+			},
+			"ja" : {
+				"name": "Ruby Sinatra",
+				"description": "最小限の労力で Web アプリケーションを Ruby で 素早く作成することに重点を置いています。"
+			},
+			"pt-BR" : {
+				"name": "Ruby Sinatra",
+				"description": "Possui foco na criação rápida de aplicativos da web no Ruby com esforço mínimo."
+			},
+			"zh-Hans" : {
+				"name": "Ruby Sinatra",
+				"description": "专注于在 Ruby 中以最小的消耗快速创建 Web 应用程序。"
+			},
+			"zh-Hant" : {
+				"name": "Ruby Sinatra",
+				"description": "專注於花費最少精力，在 Ruby 快速建立 Web 應用程式。"
+			}
+		}
+	}
+}
