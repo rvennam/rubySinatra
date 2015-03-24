@@ -1,19 +1,25 @@
 {
-    "name": "Ruby Sinatra Test",
+    "name": "Ruby Sinatra",
     "services": [],
     "description": "Focused on quickly creating web applications in Ruby with minimal effort.",
     "type": "web",
+    "version": "1.8.7p357",
+    "smallIcon": "i_rbs_24.png",
+    "icon": "i_rbs_32.png",
+    "largeIcon": "i_rbs_50.png",
+    "featuredIcon": "i_rbs_64.png",
     "system_tags": ["ibm_created"],
     "categories": ["boilerplate"],
+"runtime_template_id": "javaHelloWorld",
+    "metadata": {
+        "termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01"
+    },  
     "source": {
         "scmType": "git",
         "url": ".git",
         "appPath": "app"
     },
 	"docURL": "/#starters/rubysinatra/index.html#rubyhelloworld",
-    	"runtime_id": "d70d427c-eb92-43a7-a3fa-67e9885ad044",
-	"categories": ["boilerplate"],
-	"runtime_template_id": "javaHelloWorld",
 	"extra" : {
 		"i18n" : {
 			"de" : {
