@@ -10,7 +10,7 @@
     "featuredIcon": "i_rbs_64.png",
     "system_tags": ["ibm_created"],
     "categories": ["boilerplate"],
-"runtime_template_id": "javaHelloWorld",
+"runtime_template_id": "rubyHelloWorld",
     "metadata": {
         "termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01"
     },  
